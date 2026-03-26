@@ -1,0 +1,7 @@
+{
+  "name": "Voice Message Converter",
+  "description": "Record your voice and instantly convert it into professional emails, casual texts, or concise summaries using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
